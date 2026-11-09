@@ -1,0 +1,288 @@
+{
+ "facturacion": 9632728.4,
+ "pedidos": 18957,
+ "ticket": 508.14,
+ "clientes": 4293,
+ "recurrentes": 0.6387,
+ "devoluciones": 0.0313,
+ "meses": [
+  [
+   "dic-10",
+   775638.36,
+   1550,
+   884,
+   500.41
+  ],
+  [
+   "ene-11",
+   670380.24,
+   1081,
+   739,
+   620.15
+  ],
+  [
+   "feb-11",
+   507799.87,
+   1093,
+   757,
+   464.59
+  ],
+  [
+   "mar-11",
+   689833.51,
+   1440,
+   973,
+   479.05
+  ],
+  [
+   "abr-11",
+   515377.99,
+   1235,
+   853,
+   417.31
+  ],
+  [
+   "may-11",
+   739953.0,
+   1668,
+   1054,
+   443.62
+  ],
+  [
+   "jun-11",
+   737558.98,
+   1525,
+   990,
+   483.65
+  ],
+  [
+   "jul-11",
+   688219.34,
+   1452,
+   946,
+   473.98
+  ],
+  [
+   "ago-11",
+   724216.5,
+   1339,
+   933,
+   540.86
+  ],
+  [
+   "sep-11",
+   1028320.38,
+   1818,
+   1259,
+   565.63
+  ],
+  [
+   "oct-11",
+   1103314.25,
+   2005,
+   1361,
+   550.28
+  ],
+  [
+   "nov-11",
+   1452115.98,
+   2751,
+   1660,
+   527.85
+  ]
+ ],
+ "top10": [
+  [
+   "Regency cakestand 3 tier",
+   168162.42
+  ],
+  [
+   "White hanging heart t-light holder",
+   102236.34
+  ],
+  [
+   "Party bunting",
+   98526.75
+  ],
+  [
+   "Jumbo bag red retrospot",
+   91932.91
+  ],
+  [
+   "Medium ceramic top storage jar",
+   81448.21
+  ],
+  [
+   "Paper chain kit 50's christmas",
+   58007.83
+  ],
+  [
+   "Rabbit night light",
+   57241.57
+  ],
+  [
+   "Assorted colour bird ornament",
+   56764.88
+  ],
+  [
+   "Chilli lights",
+   51456.62
+  ],
+  [
+   "Picnic basket wicker small",
+   51408.77
+  ]
+ ],
+ "paises": [
+  [
+   "Reino Unido",
+   8153163.34,
+   17157,
+   3882
+  ],
+  [
+   "Países Bajos",
+   272161.32,
+   90,
+   9
+  ],
+  [
+   "Irlanda",
+   263709.97,
+   272,
+   3
+  ],
+  [
+   "Alemania",
+   198356.98,
+   426,
+   93
+  ],
+  [
+   "Francia",
+   177954.08,
+   365,
+   86
+  ],
+  [
+   "Australia",
+   138103.81,
+   56,
+   9
+  ],
+  [
+   "España",
+   55418.35,
+   86,
+   29
+  ],
+  [
+   "Suiza",
+   53065.6,
+   50,
+   21
+  ],
+  [
+   "Japón",
+   37416.37,
+   19,
+   8
+  ],
+  [
+   "Suecia",
+   36590.83,
+   33,
+   8
+  ],
+  [
+   "Bélgica",
+   35638.61,
+   94,
+   25
+  ]
+ ],
+ "segmentos": [
+  [
+   "Campeones",
+   917,
+   5567325.05,
+   "Cuidarlos: acceso anticipado a novedades y atención prioritaria"
+  ],
+  [
+   "Leales",
+   1243,
+   1391635.83,
+   "Subir el ticket: packs y venta cruzada"
+  ],
+  [
+   "Nuevos",
+   522,
+   193363.97,
+   "Segunda compra: email de bienvenida con oferta a 30 días"
+  ],
+  [
+   "En riesgo",
+   771,
+   565946.97,
+   "Recuperar: campaña de reactivación antes de perderlos"
+  ],
+  [
+   "Perdidos",
+   840,
+   506727.74,
+   "Encuesta corta y oferta de vuelta; no invertir de más"
+  ]
+ ],
+ "dias": [
+  [
+   "Lun",
+   1602849.29
+  ],
+  [
+   "Mar",
+   2029758.01
+  ],
+  [
+   "Mié",
+   1709549.25
+  ],
+  [
+   "Jue",
+   2003428.37
+  ],
+  [
+   "Vie",
+   1513075.45
+  ],
+  [
+   "Sáb",
+   0
+  ],
+  [
+   "Dom",
+   774068.03
+  ]
+ ],
+ "hallazgos": [
+  "Estacionalidad fuerte: septiembre a noviembre concentran el 37% de la facturación del año. nov-11 es el mejor mes (£1.452.116) y feb-11 el más flojo (£507.800). El stock y las campañas se preparan desde agosto.",
+  "Regla 80/20: el 21% de los productos (833 de 3904) genera el 80% de las ventas. Ese grupo no se puede quedar sin stock; el resto se revisa o se liquida.",
+  "Clientes: el 64% compró más de una vez y el 10% que más compra aporta el 61% de la facturación. Perder a unos pocos clientes grandes pesa mucho.",
+  "Hay 771 clientes en riesgo (sin comprar hace 2 a 6 meses) que facturaron £565.947. Reactivarlos cuesta menos que conseguir clientes nuevos.",
+  "Reino Unido es el 85% de las ventas. Afuera, Países Bajos factura £272.161 con solo 9 clientes (riesgo de concentración), mientras Alemania y Francia tienen más base (93 y 86 clientes) para crecer.",
+  "Devoluciones y anulaciones equivalen al 3,1% de la facturación. La hoja Devoluciones muestra qué productos revisar primero.",
+  "Martes y jueves son los días más fuertes. Los sábados no hay pedidos y el domingo vende la mitad que un día de semana: los emails y promociones rinden más de lunes a jueves."
+ ],
+ "limpieza": {
+  "Filas originales": 541909,
+  "Códigos que no son producto: portes, comisiones, ajustes": 2851,
+  "Devoluciones / anulaciones (separadas para su propio análisis)": 8321,
+  "Duplicados exactos (eliminados)": 5268,
+  "Precio o cantidad en cero o negativos (eliminados)": 2439,
+  "Fuera del período dic-2010 a nov-2011 (dic-2011 está incompleto)": 25246,
+  "Filas de venta válidas": 497784,
+  "Ventas sin cliente identificado (se usan en importes, no en clientes)": 123598
+ },
+ "pct_prod_80": 0.21337090163934427,
+ "n80": 833,
+ "n_prod": 3904
+}
